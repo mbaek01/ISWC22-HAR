@@ -1,1 +1,14 @@
 einops==0.3.2
+
+pyyaml
+dotmap
+torch
+ptflops
+numpy
+tqdm
+pandas
+PyWavelets
+scipy
+scikit-learn
+scikit-image
+seaborn

@@ -1,0 +1,6 @@
+**/__pycache__/
+datasets/**
+.vscode/
+Run_logs/
+Sliding_window/
+venv/
