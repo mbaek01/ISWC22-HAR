@@ -23,7 +23,7 @@ Zhou, Y.; Zhao, H.; Huang, Y.; Hefenbrock, M.; Riedel, T.; Beigl, M.
     python main.py
 ```
 
-> **Note:** Remember to install dependencies before running the script.
+> **Note:** Need to create Freq_data, Sliding_window, Stats_data folders at ./
 
 # Network Design ([see paper for details](https://publikationen.bibliothek.kit.edu/1000150216))
 
