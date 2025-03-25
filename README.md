@@ -18,8 +18,12 @@ Zhou, Y.; Zhao, H.; Huang, Y.; Hefenbrock, M.; Riedel, T.; Beigl, M.
 
 
 # How to use
+```bash
+    pip install -r requirements.txt
+    python main.py
+```
 
-TBD
+> **Note:** Remember to install dependencies before running the script.
 
 # Network Design ([see paper for details](https://publikationen.bibliothek.kit.edu/1000150216))
 
