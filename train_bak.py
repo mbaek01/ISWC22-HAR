@@ -45,7 +45,7 @@ for ds in datasets:
             args.early_stop_patience = 15
 
             args.use_gpu = True if torch.cuda.is_available() else False
-            args.gpu = 3
+            args.gpu = 0
             args.use_multi_gpu = False
 
             args.optimizer = "Adam"
